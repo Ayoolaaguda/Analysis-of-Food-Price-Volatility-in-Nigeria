@@ -1,0 +1,517 @@
+ID,Commodity,Month/Year,Month,Year,Average Price,Month-on-Month,Year-on-Year,Lowest State,Lowest Price,Highest State,Highest Price
+1001,Agric eggs medium size,Jan-23,January,2023,850.49,3.08,31.99,Delta ,1072.73,Kogi ,573.09
+1002,Agric eggs(medium size price of one),Jan-23,January,2023,87.23,4.46,49.68,Bayelsa ,100,Kano ,74.62
+1003,"Beans brown,sold loose",Jan-23,January,2023,593.96,1.33,19.06,Ebonyi ,912.56,Kebbi ,350.99
+1004,Beans:white black eye. sold loose,Jan-23,January,2023,572.55,0.74,18.92,Ebonyi ,826.71,Benue ,394.47
+1005,Beef Bone in,Jan-23,January,2023,1799.54,0.25,27.11,Sokoto ,2286.25,Osun ,1370.45
+1006,"Beef,boneless",Jan-23,January,2023,2418.91,1.75,29.72,Abia ,3097.2,Kogi ,1769.32
+1007,Bread sliced 500g,Jan-23,January,2023,547.23,1.74,30.71,Abia ,757.51,Plateau ,340
+1008,Bread unsliced 500g,Jan-23,January,2023,506.93,2.13,32.18,Delta ,712.5,Akwa_Ibom ,270
+1009,Broken Rice (Ofada),Jan-23,January,2023,567.19,1.16,16.54,Lagos ,855.04,Benue ,427
+1010,Catfish (obokun) fresh,Jan-23,January,2023,1535,0.03,11.12,Enugu ,3090.15,Kogi ,836.5
+1011,Catfish :dried,Jan-23,January,2023,2307.94,-0.16,12.28,Anambra ,4409.01,Taraba ,1426.24
+1012,Catfish Smoked,Jan-23,January,2023,1884,-0.73,11.74,Ogun ,2725.33,Adamawa ,1469.23
+1013,Chicken Feet,Jan-23,January,2023,1079.55,0.57,20.27,Enugu ,2100,Taraba ,380.27
+1014,Chicken Wings,Jan-23,January,2023,1390.99,0.63,14.99,Edo ,2650,Taraba ,577.36
+1015,Dried Fish Sardine,Jan-23,January,2023,1911.81,0.09,14.87,Anambra ,3450.76,Ondo ,1400.04
+1016,Evaporated tinned milk carnation 170g,Jan-23,January,2023,290.34,3.2,44.01,Ebonyi ,386.67,Plateau ,222.22
+1017,"Evaporated tinned milk(peak), 170g",Jan-23,January,2023,356.02,4.71,48.83,Anambra ,426.15,Kwara ,290
+1018,Frozen chicken,Jan-23,January,2023,2754.45,2.22,21.03,Enugu ,4550,Taraba ,1650.22
+1019,"Gari white,sold loose",Jan-23,January,2023,337.52,1.37,9.75,Enugu ,473.33,Osun ,260.66
+1020,"Gari yellow,sold loose",Jan-23,January,2023,375.87,2.07,11.76,Imo ,496,Osun ,250
+1021,"Groundnut oil: 1 bottle, specify bottle",Jan-23,January,2023,1256.61,2.54,33.53,Ebonyi ,2100,Benue ,710
+1022,Iced Sardine,Jan-23,January,2023,1601.1,0.67,25.49,Imo ,2801.67,Osun ,1221.24
+1023,Irish potato,Jan-23,January,2023,543.15,0.29,26.37,Enugu ,1110,Kogi ,205
+1024,Mackerel : frozen,Jan-23,January,2023,1602.21,0.28,15.95,Ebonyi ,2612.23,Benue ,1120
+1025,Maize grain white sold loose,Jan-23,January,2023,334.57,3.38,19.21,Akwa_Ibom ,500,Benue ,237.78
+1026,Maize grain yellow sold loose,Jan-23,January,2023,342.15,3.98,22,Akwa_Ibom ,513.13,Zamfara ,238.34
+1027,Mudfish (aro) fresh,Jan-23,January,2023,1418.36,1.26,12.9,Abuja ,2180.23,Bauchi ,788.98
+1028,Mudfish : dried,Jan-23,January,2023,2233.48,-0.25,-3.13,Abia ,3848.84,Kebbi ,1360.95
+1029,Onion bulb,Jan-23,January,2023,446.44,2.41,21.28,Cross_River ,1067.53,Adamawa ,189.05
+1030,"Palm oil: 1 bottle,specify bottle",Jan-23,January,2023,1044.04,1.94,29.62,Imo ,1315.56,Kwara ,695.67
+1031,Plantain(ripe),Jan-23,January,2023,384.77,2.27,33.36,Imo ,696.27,Taraba ,207.71
+1032,Plantain(unripe),Jan-23,January,2023,353.86,1.78,34.8,Bayelsa ,549.85,Taraba ,216.36
+1033,Rice agric sold loose,Jan-23,January,2023,598.57,2.02,24.56,Delta ,846.68,Kebbi ,449.09
+1034,Rice local sold loose,Jan-23,January,2023,514.83,1.71,19.67,Rivers ,714.99,Jigawa ,362.75
+1035,Rice Medium Grained,Jan-23,January,2023,578.36,1.56,21.17,Rivers ,821.2,Kogi ,432
+1036,"Rice,imported high quality sold loose",Jan-23,January,2023,744.12,2.72,28.48,Rivers ,983.65,Plateau ,600.15
+1037,Sweet potato,Jan-23,January,2023,273.67,1.65,25.66,Rivers ,428.57,Benue ,153.47
+1038,Tilapia fish (epiya) fresh,Jan-23,January,2023,1253.24,-0.21,11.49,Edo ,2283.33,Adamawa ,443.85
+1039,Titus:frozen,Jan-23,January,2023,1733.57,0.49,19.5,Rivers ,2676.27,Kwara ,1070.67
+1040,Tomato,Jan-23,January,2023,467.04,1.88,27.26,Delta ,848.08,Kogi ,189.13
+1041,"Vegetable oil:1 bottle,specify bottle",Jan-23,January,2023,1183.67,1.89,28.55,Imo ,1649.28,Benue ,708.03
+1042,Wheat flour: prepacked (golden penny 2kg),Jan-23,January,2023,1236.31,2.69,26.82,Imo ,1500,Kogi ,980
+1043,Yam tuber,Jan-23,January,2023,431.36,1.38,30.22,Akwa_Ibom ,875.44,Benue ,184.44
+1001,Agric eggs medium size,Feb-23,February,2023,868.73,2.15,32.65,Enugu ,1130,Kogi ,571.36
+1002,Agric eggs(medium size price of one),Feb-23,February,2023,88.03,0.92,47.16,Bayelsa ,100,Kano ,75.94
+1003,"Beans brown,sold loose",Feb-23,February,2023,594.15,0.03,16.58,Ebonyi ,902.46,Kebbi ,343.79
+1004,Beans:white black eye. sold loose,Feb-23,February,2023,576.93,0.77,15.96,Ebonyi ,816.61,Benue ,390.15
+1005,Beef Bone in,Feb-23,February,2023,1823.44,1.33,26.57,Sokoto ,2272,Osun ,1396.72
+1006,"Beef,boneless",Feb-23,February,2023,2445.96,1.12,27.25,Anambra ,3103.26,Kogi ,1770
+1007,Bread sliced 500g,Feb-23,February,2023,553.03,1.06,26.25,Abia ,767.78,Plateau ,345
+1008,Bread unsliced 500g,Feb-23,February,2023,514.99,1.59,28.48,Delta ,718.28,Akwa Ibom ,272.73
+1009,Broken Rice (Ofada),Feb-23,February,2023,570.73,0.62,14.93,Lagos ,863.89,Benue ,425
+1010,Catfish (obokun) fresh,Feb-23,February,2023,1548.21,0.86,16.4,Enugu ,3067.65,Kogi ,840.5
+1011,Catfish :dried,Feb-23,February,2023,2326.07,0.79,13.45,Anambra ,4459.02,Taraba ,1442.98
+1012,Catfish Smoked,Feb-23,February,2023,1897.85,0.74,10.96,Ogun ,2730,Benue ,1475
+1013,Chicken Feet,Feb-23,February,2023,1088.69,0.85,19.38,Enugu ,2090,Taraba ,378.26
+1014,Chicken Wings,Feb-23,February,2023,1392.72,0.12,13.9,Edo ,2658.97,Taraba ,570.12
+1015,Dried Fish Sardine,Feb-23,February,2023,1920.99,0.48,12.76,Anambra ,3451.06,Ondo ,1378.29
+1016,Evaporated tinned milk carnation 170g,Feb-23,February,2023,295.74,1.86,44.17,Ogun ,400,Plateau ,225
+1017,"Evaporated tinned milk(peak), 170g",Feb-23,February,2023,358.41,0.67,46.12,Anambra ,430.15,Kwara ,295.57
+1018,Frozen chicken,Feb-23,February,2023,2776.51,0.8,18.1,Enugu ,4501.67,Taraba ,1720.13
+1019,"Gari white,sold loose",Feb-23,February,2023,345.88,2.48,10.41,Enugu ,473.64,Zamfara ,280.86
+1020,"Gari yellow,sold loose",Feb-23,February,2023,380.88,1.33,12.11,Enugu ,490.58,Osun ,266.03
+1021,"Groundnut oil: 1 bottle, specify bottle",Feb-23,February,2023,1270.91,1.14,30.88,Ebonyi ,2114,Benue ,715.33
+1022,Iced Sardine,Feb-23,February,2023,1614.4,0.83,24.37,Imo ,2758.69,Bayelsa ,1241.67
+1023,Irish potato,Feb-23,February,2023,551.55,1.55,28.11,Lagos ,1066.63,Kogi ,210
+1024,Mackerel : frozen,Feb-23,February,2023,1614.89,0.79,17.65,Ebonyi ,2642.23,Benue ,1125.43
+1025,Maize grain white sold loose,Feb-23,February,2023,338.14,1.07,17.57,Akwa Ibom ,500.72,Jigawa ,234.13
+1026,Maize grain yellow sold loose,Feb-23,February,2023,342.95,0.23,18.38,Akwa Ibom ,533.2,Jigawa ,230.5
+1027,Mudfish (aro) fresh,Feb-23,February,2023,1432.14,0.97,11.68,Abuja ,2180,Bauchi ,793.33
+1028,Mudfish : dried,Feb-23,February,2023,2245.35,0.53,13.19,Abia ,3898.84,Kebbi ,1390.91
+1029,Onion bulb,Feb-23,February,2023,450.07,0.81,18.99,Cross River ,1058.61,Adamawa ,194.44
+1030,"Palm oil: 1 bottle,specify bottle",Feb-23,February,2023,1066.14,2.12,29.15,Delta ,1321.86,Kwara ,692.57
+1031,Plantain(ripe),Feb-23,February,2023,386.65,0.49,32.17,Imo ,652.72,Taraba ,200.21
+1032,Plantain(unripe),Feb-23,February,2023,355.88,0.57,32.53,Bayelsa ,550.51,Taraba ,206.36
+1033,Rice agric sold loose,Feb-23,February,2023,602.09,0.59,22.18,Rivers ,837.13,Kebbi ,475.76
+1034,Rice local sold loose,Feb-23,February,2023,520.84,1.17,19.3,Rivers ,701.06,Jigawa ,349.89
+1035,Rice Medium Grained,Feb-23,February,2023,584.55,1.07,19.93,Rivers ,811.28,Kogi ,430
+1036,"Rice,imported high quality sold loose",Feb-23,February,2023,745.96,0.25,25.41,Rivers ,989.75,Plateau ,605.77
+1037,Sweet potato,Feb-23,February,2023,279.02,1.96,22.79,Rivers ,432.86,Benue ,150.4
+1038,Tilapia fish (epiya) fresh,Feb-23,February,2023,1271.86,1.49,11.11,Edo ,2298.89,Bauchi ,466.67
+1039,Titus:frozen,Feb-23,February,2023,1744.35,0.62,16.38,Rivers ,2696.54,Kwara ,1075.67
+1040,Tomato,Feb-23,February,2023,468.09,0.22,19.08,Edo ,864.83,Kogi ,190.08
+1041,"Vegetable oil:1 bottle,specify bottle",Feb-23,February,2023,1196.68,1.1,25.91,Abia ,1615.24,Benue ,710
+1042,Wheat flour: prepacked (golden penny 2kg),Feb-23,February,2023,1247.42,0.9,22.1,Imo ,1492.12,Kogi ,985
+1043,Yam tuber,Feb-23,February,2023,436.41,1.17,28.45,Akwa Ibom ,875.02,Taraba ,178.65
+1001,Agric eggs medium size,Mar-23,March,2023,891.54,2.63,33.27,Enugu ,1161.16,Kogi ,580.33
+1002,Agric eggs(medium size price of one),Mar-23,March,2023,88.22,0.22,43.28,Bayelsa ,100.36,Niger ,75
+1003,"Beans brown,sold loose",Mar-23,March,2023,596.96,0.47,13.13,Ebonyi ,906,Kebbi ,352.7
+1004,Beans:white black eye. sold loose,Mar-23,March,2023,576.2,-0.12,13.89,Ebonyi ,820.1,Benue ,398.34
+1005,Beef Bone in,Mar-23,March,2023,1856.19,1.8,24.04,Ogun ,2310.05,Osun ,1439.35
+1006,"Beef,boneless",Mar-23,March,2023,2479.61,1.38,25.05,Anambra ,3107.44,Kogi ,1778
+1007,Bread sliced 500g,Mar-23,March,2023,561.21,1.48,25.33,Abia ,770.32,Plateau ,350
+1008,Bread unsliced 500g,Mar-23,March,2023,518.14,0.61,25.85,Delta ,728.25,Akwa Ibom ,290.91
+1009,Broken Rice (Ofada),Mar-23,March,2023,584.95,2.49,15.83,Ogun ,894.71,Benue ,430.33
+1010,Catfish (obokun) fresh,Mar-23,March,2023,1566.34,1.17,16.8,Enugu ,3100,Kogi ,850.33
+1011,Catfish :dried,Mar-23,March,2023,2352.15,1.12,12.54,Anambra ,4472.14,Zamfara ,1500
+1012,Catfish Smoked,Mar-23,March,2023,1921.31,1.24,10.82,Ogun ,2747.14,Benue ,1480
+1013,Chicken Feet,Mar-23,March,2023,1108.61,1.83,20.62,Enugu ,2100,Taraba ,360.15
+1014,Chicken Wings,Mar-23,March,2023,1413.2,1.47,14.15,Edo ,2685.71,Taraba ,571.02
+1015,Dried Fish Sardine,Mar-23,March,2023,1949.98,1.51,13.48,Anambra ,3463.47,Ondo ,1332.37
+1016,Evaporated tinned milk carnation 170g,Mar-23,March,2023,300.11,1.48,44.08,Ogun ,400,Abia ,235.9
+1017,"Evaporated tinned milk(peak), 170g",Mar-23,March,2023,369.15,3,47.59,Ekiti ,438.67,Kogi ,300
+1018,Frozen chicken,Mar-23,March,2023,2827.6,1.84,18.75,Enugu ,4560,Taraba ,1800.45
+1019,"Gari white,sold loose",Mar-23,March,2023,353.16,2.1,11.29,Enugu ,485.37,Kwara ,265.39
+1020,"Gari yellow,sold loose",Mar-23,March,2023,391.38,2.76,15.56,Imo ,502.74,Kwara ,291.67
+1021,"Groundnut oil: 1 bottle, specify bottle",Mar-23,March,2023,1292.55,1.7,29.95,Ebonyi ,2115.27,Benue ,720.05
+1022,Iced Sardine,Mar-23,March,2023,1641.96,1.71,24.03,Imo ,2809.67,Osun ,1190.48
+1023,Irish potato,Mar-23,March,2023,557.06,1,25.67,Lagos ,1162.26,Kogi ,200
+1024,Mackerel : frozen,Mar-23,March,2023,1651.54,2.27,18.69,Ebonyi ,2645.82,Benue ,1130
+1025,Maize grain white sold loose,Mar-23,March,2023,339.79,0.49,14.24,Akwa Ibom ,512.5,Kano ,237.31
+1026,Maize grain yellow sold loose,Mar-23,March,2023,343.92,0.28,15.21,Akwa Ibom ,577.16,Kaduna ,221.83
+1027,Mudfish (aro) fresh,Mar-23,March,2023,1442.91,0.75,11.64,Edo ,2250,Bauchi ,798.32
+1028,Mudfish : dried,Mar-23,March,2023,2256.48,0.5,11.16,Abia ,3900.57,Kebbi ,1500
+1029,Onion bulb,Mar-23,March,2023,444.37,-1.27,17.37,Cross River ,981.86,Taraba ,205.5
+1030,"Palm oil: 1 bottle,specify bottle",Mar-23,March,2023,1086.7,1.93,29.03,Kaduna ,1345.24,Kwara ,700.24
+1031,Plantain(ripe),Mar-23,March,2023,400.43,3.56,32.46,Imo ,695.8,Taraba ,201.25
+1032,Plantain(unripe),Mar-23,March,2023,366.44,2.97,31.16,Bayelsa ,588.95,Taraba ,210.22
+1033,Rice agric sold loose,Mar-23,March,2023,613.29,1.86,22.62,Rivers ,900.72,Kebbi ,435.72
+1034,Rice local sold loose,Mar-23,March,2023,530.08,1.78,19.98,Rivers ,738.28,Jigawa ,368.39
+1035,Rice Medium Grained,Mar-23,March,2023,597.5,2.22,22.29,Rivers ,851.09,Kebbi ,433.33
+1036,"Rice,imported high quality sold loose",Mar-23,March,2023,765.15,2.57,25.91,Rivers ,1028.21,Plateau ,610.15
+1037,Sweet potato,Mar-23,March,2023,278.36,-0.24,22.06,Akwa Ibom ,412.36,Benue ,155.77
+1038,Tilapia fish (epiya) fresh,Mar-23,March,2023,1279.93,0.63,10.21,Edo ,2300.67,Bauchi ,463.85
+1039,Titus:frozen,Mar-23,March,2023,1781.66,2.14,16.68,Rivers ,2706.32,Kwara ,1080
+1040,Tomato,Mar-23,March,2023,466.6,-0.32,13.81,Edo ,901.23,Kogi ,196.41
+1041,"Vegetable oil:1 bottle,specify bottle",Mar-23,March,2023,1220.62,2,25.8,Abia ,1618.21,Benue ,720
+1042,Wheat flour: prepacked (golden penny 2kg),Mar-23,March,2023,1275.23,2.23,22.4,Imo ,1507,Kogi ,975
+1043,Yam tuber,Mar-23,March,2023,443.02,1.51,25.3,Akwa Ibom ,900.8,Taraba ,188.6
+1001,Agric eggs medium size,Apr-23,April,2023,915.41,2.68,34.83,Enugu ,1175.33,Kogi ,599.91
+1002,Agric eggs(medium size price of one),Apr-23,April,2023,88.17,-0.06,37.78,Imo ,100.43,Niger ,68.85
+1003,"Beans brown,sold loose",Apr-23,April,2023,615.67,3.13,16.03,Ebonyi ,961.74,Niger ,428.57
+1004,Beans:white black eye. sold loose,Apr-23,April,2023,584.42,1.43,12.59,Ebonyi ,876.81,Benue ,410.29
+1005,Beef Bone in,Apr-23,April,2023,1887.27,1.67,25.14,Ogun ,2363.62,Osun ,1493.48
+1006,"Beef,boneless",Apr-23,April,2023,2495.69,0.65,23.13,Imo ,3277.11,Kogi ,1789.67
+1007,Bread sliced 500g,Apr-23,April,2023,577.41,2.89,28.17,Edo ,830,Plateau ,360
+1008,Bread unsliced 500g,Apr-23,April,2023,536,3.45,30.02,Delta ,781.25,Akwa Ibom ,284
+1009,Broken Rice (Ofada),Apr-23,April,2023,601.61,2.85,17.16,Lagos ,954.79,Benue ,450
+1010,Catfish (obokun) fresh,Apr-23,April,2023,1589.12,1.45,15.22,Enugu ,3156,Kogi ,865
+1011,Catfish :dried,Apr-23,April,2023,2379.97,1.18,12.41,Imo ,4532.39,Taraba ,1522.2
+1012,Catfish Smoked,Apr-23,April,2023,1937.26,0.83,10.61,Ogun ,2754.29,Kaduna ,1478.15
+1013,Chicken Feet,Apr-23,April,2023,1115.29,0.6,19.61,Enugu ,2151,Taraba ,366.02
+1014,Chicken Wings,Apr-23,April,2023,1428.71,1.1,14.29,Delta ,2662.5,Taraba ,574.22
+1015,Dried Fish Sardine,Apr-23,April,2023,1983.19,1.7,14.59,Anambra ,3482.46,Ondo ,1340.74
+1016,Evaporated tinned milk carnation 170g,Apr-23,April,2023,308.66,2.85,42.39,Oyo ,436.67,Plateau ,240
+1017,"Evaporated tinned milk(peak), 170g",Apr-23,April,2023,378.82,2.62,49.23,Anambra ,455,Adamawa ,314
+1018,Frozen chicken,Apr-23,April,2023,2853.16,0.9,19.84,Enugu ,4760,Taraba ,1849.3
+1019,"Gari white,sold loose",Apr-23,April,2023,362.5,2.64,13.73,Enugu ,495.56,Kwara ,254.24
+1020,"Gari yellow,sold loose",Apr-23,April,2023,399.78,2.15,19.27,Imo ,527.14,Kwara ,272.22
+1021,"Groundnut oil: 1 bottle, specify bottle",Apr-23,April,2023,1317.5,1.93,30.75,Ebonyi ,2200,Kogi ,750.33
+1022,Iced Sardine,Apr-23,April,2023,1669.58,1.68,24.81,Imo ,2871.78,Zamfara ,1260
+1023,Irish potato,Apr-23,April,2023,567.29,1.84,26.52,Lagos ,1251.23,Kogi ,220.46
+1024,Mackerel : frozen,Apr-23,April,2023,1660.03,0.51,17.39,Ebonyi ,2742.81,Benue ,1040.57
+1025,Maize grain white sold loose,Apr-23,April,2023,346.67,2.02,13.41,Rivers ,545.62,Kano ,239.31
+1026,Maize grain yellow sold loose,Apr-23,April,2023,349.46,1.61,14.82,Bayelsa ,557.48,Kebbi ,224.96
+1027,Mudfish (aro) fresh,Apr-23,April,2023,1466.24,1.62,12.35,Edo ,2218.52,Kwara ,835.67
+1028,Mudfish : dried,Apr-23,April,2023,2287.83,1.39,12.09,Abia ,4052.82,Kebbi ,1550
+1029,Onion bulb,Apr-23,April,2023,441.38,-0.67,15.87,Cross River ,987.39,Katsina ,163.33
+1030,"Palm oil: 1 bottle,specify bottle",Apr-23,April,2023,1107.14,1.88,31.37,Zamfara ,1836.06,Kwara ,740.56
+1031,Plantain(ripe),Apr-23,April,2023,412.39,2.99,34.44,Imo ,720.75,Taraba ,212.25
+1032,Plantain(unripe),Apr-23,April,2023,372.89,1.76,29.11,Rivers ,585.96,Taraba ,211.44
+1033,Rice agric sold loose,Apr-23,April,2023,631.5,2.97,25.25,Rivers ,965.45,Kebbi ,420.4
+1034,Rice local sold loose,Apr-23,April,2023,546.76,3.15,24.19,Ondo ,720.32,Jigawa ,354.14
+1035,Rice Medium Grained,Apr-23,April,2023,609.57,2.02,23.18,Bayelsa ,861.9,Kogi ,450
+1036,"Rice,imported high quality sold loose",Apr-23,April,2023,781.5,2.14,27.64,Rivers ,1106.06,Plateau ,626.45
+1037,Sweet potato,Apr-23,April,2023,286.26,2.84,25.7,Akwa Ibom ,453.78,Benue ,165.27
+1038,Tilapia fish (epiya) fresh,Apr-23,April,2023,1276.12,-0.3,8.43,Edo ,2341.67,Bauchi ,470.85
+1039,Titus:frozen,Apr-23,April,2023,1796.46,0.83,15.58,Rivers ,2792.82,Kwara ,1090
+1040,Tomato,Apr-23,April,2023,485.1,3.97,13.73,Edo ,950.62,Kogi ,205.26
+1041,"Vegetable oil:1 bottle,specify bottle",Apr-23,April,2023,1239.58,1.55,26.34,Abia ,1694.74,Kogi ,735.33
+1042,Wheat flour: prepacked (golden penny 2kg),Apr-23,April,2023,1295.17,1.56,23.62,Rivers ,1600,Kogi ,986.67
+1043,Yam tuber,Apr-23,April,2023,444.69,0.38,23.12,Akwa Ibom ,920.15,Benue ,200.37
+1001,Agric eggs medium size,May-23,May,2023,933.38,1.96,35.35,Enugu ,1193.85,Kogi ,620
+1002,Agric eggs(medium size price of one),May-23,May,2023,89.17,1.13,35.83,Imo ,105.04,Niger ,74.91
+1003,"Beans brown,sold loose",May-23,May,2023,629.75,2.29,17.29,Ebonyi ,965.91,Niger ,452.42
+1004,Beans:white black eye. sold loose,May-23,May,2023,599.74,2.62,14.3,Ebonyi ,880,Benue ,428.2
+1005,Beef Bone in,May-23,May,2023,1914.92,1.47,25.75,Ogun ,2383.35,Osun ,1588.1
+1006,"Beef,boneless",May-23,May,2023,2520.52,1,24.19,Imo ,3475.04,Kogi ,1790.14
+1007,Bread sliced 500g,May-23,May,2023,596.11,3.24,30.5,Edo ,840,Plateau ,375.25
+1008,Bread unsliced 500g,May-23,May,2023,550.65,2.73,30.6,Delta ,843.75,Akwa Ibom ,310
+1009,Broken Rice (Ofada),May-23,May,2023,612.05,1.74,18.84,Lagos ,948.92,Benue ,430
+1010,Catfish (obokun) fresh,May-23,May,2023,1610.63,1.35,15.9,Enugu ,3195.45,Kogi ,876.67
+1011,Catfish :dried,May-23,May,2023,2424.73,1.88,14.39,Imo ,4633.56,Taraba ,1609.09
+1012,Catfish Smoked,May-23,May,2023,1963.22,1.34,11.26,Ogun ,2500,Kaduna ,1485.67
+1013,Chicken Feet,May-23,May,2023,1133.87,1.67,21.03,Enugu ,2189,Taraba ,397.13
+1014,Chicken Wings,May-23,May,2023,1462.35,2.35,15.06,Delta ,2716.67,Taraba ,593.03
+1015,Dried Fish Sardine,May-23,May,2023,2026.13,2.16,15.59,Anambra ,3505,Ondo ,1325
+1016,Evaporated tinned milk carnation 170g,May-23,May,2023,317.51,2.87,43.54,Oyo ,440,Plateau ,220
+1017,"Evaporated tinned milk(peak), 170g",May-23,May,2023,384.19,1.42,48.59,Anambra ,473.33,Adamawa ,322.35
+1018,Frozen chicken,May-23,May,2023,2889.99,1.29,19.64,Enugu ,5087.5,Taraba ,1906.49
+1019,"Gari white,sold loose",May-23,May,2023,371.42,2.46,13.64,Enugu ,499.58,Kwara ,268.55
+1020,"Gari yellow,sold loose",May-23,May,2023,401.59,0.45,16.51,Imo ,535.48,Kwara ,285.48
+1021,"Groundnut oil: 1 bottle, specify bottle",May-23,May,2023,1330.35,0.98,27.81,Ebonyi ,2202.34,Kogi ,773.33
+1022,Iced Sardine,May-23,May,2023,1693.09,1.41,24.54,Imo ,2893.65,Zamfara ,1290
+1023,Irish potato,May-23,May,2023,585.1,3.14,27.18,Lagos ,1253.04,Kogi ,240.74
+1024,Mackerel : frozen,May-23,May,2023,1696.22,2.18,18.54,Ebonyi ,2788.59,Benue ,1083.33
+1025,Maize grain white sold loose,May-23,May,2023,350.82,1.2,11.46,Rivers ,551.76,Kano ,255.48
+1026,Maize grain yellow sold loose,May-23,May,2023,359.52,2.88,15.04,Bayelsa ,610.74,Kebbi ,244.51
+1027,Mudfish (aro) fresh,May-23,May,2023,1482.21,1.09,13.12,Edo ,2300,Kwara ,850.67
+1028,Mudfish : dried,May-23,May,2023,2300.9,0.57,12.26,Abia ,4072.73,Kebbi ,1525
+1029,Onion bulb,May-23,May,2023,453.86,2.83,17.12,Cross River ,960.82,Katsina ,334.21
+1030,"Palm oil: 1 bottle,specify bottle",May-23,May,2023,1109.17,0.18,30.89,Zamfara ,1297.67,Kwara ,780.19
+1031,Plantain(ripe),May-23,May,2023,425.79,3.25,34.81,Imo ,750.2,Taraba ,220
+1032,Plantain(unripe),May-23,May,2023,386.74,3.71,32.44,Rivers ,610.14,Taraba ,225
+1033,Rice agric sold loose,May-23,May,2023,640.36,1.4,26.26,Rivers ,1016.55,Kebbi ,433.94
+1034,Rice local sold loose,May-23,May,2023,555.18,1.54,24.06,Ondo ,724.81,Jigawa ,369.09
+1035,Rice Medium Grained,May-23,May,2023,615.32,0.94,23.81,Bayelsa ,889.88,Kogi ,470
+1036,"Rice,imported high quality sold loose",May-23,May,2023,793.01,1.47,27.98,Rivers ,1134.3,Plateau ,600.08
+1037,Sweet potato,May-23,May,2023,297.35,3.87,26.7,Akwa Ibom ,498.4,Benue ,180.72
+1038,Tilapia fish (epiya) fresh,May-23,May,2023,1303.98,2.18,10.25,Edo ,2325,Bauchi ,489.78
+1039,Titus:frozen,May-23,May,2023,1819.26,1.27,15.75,Rivers ,2692.95,Kwara ,1100.71
+1040,Tomato,May-23,May,2023,498.34,2.73,17.68,Edo ,957.95,Kogi ,215.43
+1041,"Vegetable oil:1 bottle,specify bottle",May-23,May,2023,1263,1.89,26.78,Abia ,1702,Kogi ,750.89
+1042,Wheat flour: prepacked (golden penny 2kg),May-23,May,2023,1315.31,1.56,24.06,Rivers ,1627.27,Kogi ,998.57
+1043,Yam tuber,May-23,May,2023,457.25,2.83,22.84,Akwa Ibom ,924.17,Benue ,214.79
+1001,Agric eggs medium size,Jun-23,June,2023,986.81,5.72,40.13,Enugu ,1234.23,Kogi ,770.15
+1002,Agric eggs(medium size price of one),Jun-23,June,2023,91.46,2.57,33.4,Imo ,108.38,Kwara ,75.03
+1003,"Beans brown,sold loose",Jun-23,June,2023,651.12,3.39,18.08,Imo ,1000,Katsina ,480.28
+1004,Beans:white black eye. sold loose,Jun-23,June,2023,622.79,3.84,16.16,Imo ,920.45,Katsina ,439.84
+1005,Beef Bone in,Jun-23,June,2023,2055.18,7.32,31.74,Edo ,2703.9,Kogi ,1514.43
+1006,"Beef,boneless",Jun-23,June,2023,2653.02,5.26,27.55,Imo ,3480.35,Kogi ,1806.25
+1007,Bread sliced 500g,Jun-23,June,2023,634.16,6.38,34.22,Delta ,812.5,Taraba ,449.39
+1008,Bread unsliced 500g,Jun-23,June,2023,593.56,7.79,36.61,Delta ,887.5,Akwa Ibom ,345
+1009,Broken Rice (Ofada),Jun-23,June,2023,642.81,5.03,21.81,Ogun ,1086.08,Benue ,495.06
+1010,Catfish (obokun) fresh,Jun-23,June,2023,1694.85,5.23,19.87,Enugu ,3207,Kogi ,904.56
+1011,Catfish :dried,Jun-23,June,2023,2491.26,2.74,15.52,Ebonyi ,4725.93,Jigawa ,1665
+1012,Catfish Smoked,Jun-23,June,2023,2049.64,4.4,14.99,Edo ,2891,Kaduna ,1523.12
+1013,Chicken Feet,Jun-23,June,2023,1201.34,5.95,23.65,Enugu ,2210.19,Taraba ,401
+1014,Chicken Wings,Jun-23,June,2023,1547.04,5.79,19.7,Delta ,2980,Taraba ,631.02
+1015,Dried Fish Sardine,Jun-23,June,2023,2129.13,5.08,19.7,Anambra ,3575,Ondo ,1355.06
+1016,Evaporated tinned milk carnation 170g,Jun-23,June,2023,363.83,14.59,60.69,Oyo ,450,Abia ,259.9
+1017,"Evaporated tinned milk(peak), 170g",Jun-23,June,2023,444.93,15.81,66.79,Enugu ,502.08,Abuja ,381.67
+1018,Frozen chicken,Jun-23,June,2023,3063.37,6,24.83,Enugu ,5090,Taraba ,1945.08
+1019,"Gari white,sold loose",Jun-23,June,2023,403.15,8.54,21.24,Abia ,509.03,Kwara ,303
+1020,"Gari yellow,sold loose",Jun-23,June,2023,429.11,6.85,21.24,Imo ,567.72,Kwara ,310
+1021,"Groundnut oil: 1 bottle, specify bottle",Jun-23,June,2023,1387.64,4.31,30.55,Ebonyi ,2222.22,Benue ,859.75
+1022,Iced Sardine,Jun-23,June,2023,1760.76,4,26.22,Imo ,2906,Zamfara ,1287.5
+1023,Irish potato,Jun-23,June,2023,623.75,6.61,31.65,Lagos ,1269.14,Yobe ,298.09
+1024,Mackerel : frozen,Jun-23,June,2023,1767.02,4.17,21.04,Ebonyi ,2800,Benue ,1288.53
+1025,Maize grain white sold loose,Jun-23,June,2023,378.71,7.95,16.77,Rivers ,552.17,Katsina ,250.04
+1026,Maize grain yellow sold loose,Jun-23,June,2023,388.25,7.99,20.93,Bayelsa ,630,Kaduna ,252.69
+1027,Mudfish (aro) fresh,Jun-23,June,2023,1562.36,5.41,16.92,Edo ,2366.67,Kogi ,908.82
+1028,Mudfish : dried,Jun-23,June,2023,2388.39,3.8,14.44,Abia ,4206.49,Kebbi ,1580
+1029,Onion bulb,Jun-23,June,2023,491.04,8.19,24.84,Cross River ,968.15,Zamfara ,286.13
+1030,"Palm oil: 1 bottle,specify bottle",Jun-23,June,2023,1174.2,5.86,34.83,Osun ,1390,Kogi ,884.78
+1031,Plantain(ripe),Jun-23,June,2023,450.19,5.73,38.13,Imo ,770.11,Taraba ,250
+1032,Plantain(unripe),Jun-23,June,2023,408.69,5.68,34.91,Anambra ,608.97,Taraba ,260
+1033,Rice agric sold loose,Jun-23,June,2023,677.16,5.75,30.93,Rivers ,1136.36,Kebbi ,462.92
+1034,Rice local sold loose,Jun-23,June,2023,608.2,9.55,32.17,Ondo ,826.09,Jigawa ,420.86
+1035,Rice Medium Grained,Jun-23,June,2023,667.51,8.48,30.39,Akwa Ibom ,920,Ebonyi ,500.08
+1036,"Rice,imported high quality sold loose",Jun-23,June,2023,839.84,5.91,32.01,Rivers ,1181.82,Sokoto ,693.33
+1037,Sweet potato,Jun-23,June,2023,318.53,7.12,28.49,Lagos ,486.44,Benue ,211.59
+1038,Tilapia fish (epiya) fresh,Jun-23,June,2023,1383.16,6.07,16.29,Edo ,2433.33,Bauchi ,539.74
+1039,Titus:frozen,Jun-23,June,2023,1900.12,4.44,18.43,Cross River ,2844.44,Kwara ,1213.92
+1040,Tomato,Jun-23,June,2023,547.28,9.82,24.86,Akwa Ibom ,1013.9,Kogi ,217.37
+1041,"Vegetable oil:1 bottle,specify bottle",Jun-23,June,2023,1322.24,4.69,29.85,Abia ,1721.33,Kwara ,845.32
+1042,Wheat flour: prepacked (golden penny 2kg),Jun-23,June,2023,1380.45,4.95,28,Rivers ,1718.18,Kwara ,1188.3
+1043,Yam tuber,Jun-23,June,2023,510.77,11.7,32.85,Akwa Ibom ,985.04,Adamawa ,249.82
+1001,Agric eggs medium size,Jul-23,July,2023,1006.64,2.01,39.53,Enugu ,1301.74,Kogi ,778
+1002,Agric eggs(medium size price of one),Jul-23,July,2023,93.01,1.7,30.94,Imo ,110.47,Kwara ,76
+1003,"Beans brown,sold loose",Jul-23,July,2023,673.53,3.44,19.73,Ebonyi ,1022.45,Katsina ,474.99
+1004,Beans:white black eye. sold loose,Jul-23,July,2023,652.61,4.79,19.23,Imo ,1221.5,Katsina ,461.92
+1005,Beef Bone in,Jul-23,July,2023,2128.19,3.55,33.92,Edo ,2723.69,Kogi ,1524.29
+1006,"Beef,boneless",Jul-23,July,2023,2758.13,3.96,30.17,Anambra ,3500.84,Kogi ,1812.44
+1007,Bread sliced 500g,Jul-23,July,2023,651.78,2.78,34.04,Abia ,846.88,Yobe ,466.25
+1008,Bread unsliced 500g,Jul-23,July,2023,607.27,2.31,35.81,Delta ,863,Akwa Ibom ,436.36
+1009,Broken Rice (Ofada),Jul-23,July,2023,679.22,5.66,26.76,Ogun ,1098.57,Benue ,498.21
+1010,Catfish (obokun) fresh,Jul-23,July,2023,1761.38,3.93,23.47,Enugu ,3266.67,Kogi ,906
+1011,Catfish :dried,Jul-23,July,2023,2559.26,2.73,17.66,Enugu ,5006.93,Kogi ,1670
+1012,Catfish Smoked,Jul-23,July,2023,2108.93,2.89,17.83,Enugu ,3066.67,Kaduna ,1598
+1013,Chicken Feet,Jul-23,July,2023,1234.71,2.78,25.06,Enugu ,2223,Taraba ,444.02
+1014,Chicken Wings,Jul-23,July,2023,1566.2,1.24,19.71,Edo ,2700,Taraba ,644.32
+1015,Dried Fish Sardine,Jul-23,July,2023,2181.12,2.44,20.67,Anambra ,3883.33,Akwa Ibom ,1424.07
+1016,Evaporated tinned milk carnation 170g,Jul-23,July,2023,401.68,10.4,72.81,Ebonyi ,455,Bayelsa ,300
+1017,"Evaporated tinned milk(peak), 170g",Jul-23,July,2023,485.8,9.19,76.15,Delta ,550,Abuja ,388.71
+1018,Frozen chicken,Jul-23,July,2023,3098.34,1.14,24.49,Enugu ,5500,Taraba ,2000.4
+1019,"Gari white,sold loose",Jul-23,July,2023,429.89,6.63,33.02,Ebonyi ,550.74,Kwara ,308.47
+1020,"Gari yellow,sold loose",Jul-23,July,2023,459.7,7.13,32.95,Ogun ,634.2,Kwara ,313.02
+1021,"Groundnut oil: 1 bottle, specify bottle",Jul-23,July,2023,1419.79,2.32,31.69,Ebonyi ,2250.36,Benue ,863.67
+1022,Iced Sardine,Jul-23,July,2023,1806,2.57,27.11,Imo ,3000.47,Zamfara ,1296
+1023,Irish potato,Jul-23,July,2023,643.47,3.16,32.37,Lagos ,1283.81,Kogi ,304.94
+1024,Mackerel : frozen,Jul-23,July,2023,1803.23,2.05,20.55,Abia ,2893.9,Benue ,1293
+1025,Maize grain white sold loose,Jul-23,July,2023,536.74,41.73,70.38,Enugu ,605.58,Kwara ,360.45
+1026,Maize grain yellow sold loose,Jul-23,July,2023,537.36,38.4,69.75,Cross River ,604.32,Kwara ,422.83
+1027,Mudfish (aro) fresh,Jul-23,July,2023,1611.84,3.17,21.4,Edo ,2500,Kogi ,913
+1028,Mudfish : dried,Jul-23,July,2023,2438.01,2.08,16.09,Abia ,4621.39,Kebbi ,1592
+1029,Onion bulb,Jul-23,July,2023,502.73,2.38,26.65,Abia ,819,Kano ,297.41
+1030,"Palm oil: 1 bottle,specify bottle",Jul-23,July,2023,1208.62,2.93,35.7,Ogun ,1480,Kogi ,890.22
+1031,Plantain(ripe),Jul-23,July,2023,585.78,30.12,75.29,Imo ,851.97,Kwara ,320
+1032,Plantain(unripe),Jul-23,July,2023,549.94,34.56,77.84,Anambra ,705.56,Kwara ,315
+1033,Rice agric sold loose,Jul-23,July,2023,706.59,4.35,34.27,Rivers ,980.52,Jigawa ,534
+1034,Rice local sold loose,Jul-23,July,2023,653.49,7.45,39.69,Ondo ,853.36,Benue ,505.06
+1035,Rice Medium Grained,Jul-23,July,2023,699.06,4.73,34.34,Rivers ,903.41,Kwara ,574
+1036,"Rice,imported high quality sold loose",Jul-23,July,2023,869.77,3.56,33.8,Enugu ,1156.71,Plateau ,730
+1037,Sweet potato,Jul-23,July,2023,339.63,6.62,35.46,Lagos ,535.69,Benue ,213.51
+1038,Tilapia fish (epiya) fresh,Jul-23,July,2023,1437.84,3.95,20.38,Bayelsa ,2666.94,Kogi ,608
+1039,Titus:frozen,Jul-23,July,2023,1959.41,3.12,19.66,Abia ,2869.09,Kwara ,1220
+1040,Tomato,Jul-23,July,2023,557.96,1.95,24.88,Akwa Ibom ,1001.73,Kogi ,220
+1041,"Vegetable oil:1 bottle,specify bottle",Jul-23,July,2023,1365.17,3.25,31.07,Abia ,1810,Kwara ,852
+1042,Wheat flour: prepacked (golden penny 2kg),Jul-23,July,2023,1419.14,2.8,29.63,Rivers ,1721,Kogi ,1200
+1043,Yam tuber,Jul-23,July,2023,539.41,5.61,38.4,Akwa Ibom ,999.61,Adamawa ,281.33
+1001,Agric eggs medium size,Aug-23,August,2023,1031.55,2.47,40.62,Enugu ,1315,Benue ,803.33
+1002,Agric eggs(medium size price of one),Aug-23,August,2023,95.1,2.24,29.71,Imo ,112.33,Kwara ,83
+1003,"Beans brown,sold loose",Aug-23,August,2023,692.95,2.88,27,Imo ,1087.14,Kogi ,480.35
+1004,Beans:white black eye. sold loose,Aug-23,August,2023,668.22,2.39,28.52,Imo ,1292.4,Benue ,435.26
+1005,Beef Bone in,Aug-23,August,2023,2158.12,1.41,34.02,Edo ,2767.54,Kogi ,1583.33
+1006,"Beef,boneless",Aug-23,August,2023,2799.51,1.5,30.75,Anambra ,3790.02,Kogi ,1835.71
+1007,Bread sliced 500g,Aug-23,August,2023,684.85,5.07,40.3,Delta ,966.67,Yobe ,477.6
+1008,Bread unsliced 500g,Aug-23,August,2023,641.88,5.7,41.36,Delta ,922.22,Yobe ,487.61
+1009,Broken Rice (Ofada),Aug-23,August,2023,719.77,5.97,38.13,Ogun ,1176.67,Benue ,502.96
+1010,Catfish (obokun) fresh,Aug-23,August,2023,1800.63,2.23,25.33,Enugu ,3337.79,Kogi ,937
+1011,Catfish :dried,Aug-23,August,2023,2650,3.55,22.13,Enugu ,5252.82,Jigawa ,1675
+1012,Catfish Smoked,Aug-23,August,2023,2162.49,2.54,20.32,Imo ,3258.43,Kaduna ,1600
+1013,Chicken Feet,Aug-23,August,2023,1281.55,3.79,28.43,Enugu ,2250,Kogi ,500
+1014,Chicken Wings,Aug-23,August,2023,1598.87,2.09,20.19,Enugu ,2537.18,Kogi ,760
+1015,Dried Fish Sardine,Aug-23,August,2023,2226.93,2.1,22.57,Anambra ,3896.67,Akwa Ibom ,1230.77
+1016,Evaporated tinned milk carnation 170g,Aug-23,August,2023,431.28,7.37,81.69,Ebonyi ,500,Abuja ,354
+1017,"Evaporated tinned milk(peak), 170g",Aug-23,August,2023,499.58,2.84,76.61,Ebonyi ,570,Abuja ,400
+1018,Frozen chicken,Aug-23,August,2023,3144.1,1.48,24.2,Enugu ,5610.38,Taraba ,2082.45
+1019,"Gari white,sold loose",Aug-23,August,2023,456.32,6.15,49.16,Cross River ,574.31,Kwara ,336.64
+1020,"Gari yellow,sold loose",Aug-23,August,2023,484.22,5.33,41.85,Ogun ,670.19,Kwara ,334.51
+1021,"Groundnut oil: 1 bottle, specify bottle",Aug-23,August,2023,1470.64,3.58,35.21,Ebonyi ,2333.33,Benue ,873.33
+1022,Iced Sardine,Aug-23,August,2023,1830.79,1.37,27.25,Imo ,3204.21,Oyo ,1319.11
+1023,Irish potato,Aug-23,August,2023,673.96,4.74,39.82,Lagos ,1366.86,Kogi ,323.96
+1024,Mackerel : frozen,Aug-23,August,2023,1848.43,2.51,22.66,Abia ,2936.2,Benue ,1300
+1025,Maize grain white sold loose,Aug-23,August,2023,580.09,8.08,93.04,Abia ,703.07,Kwara ,374.75
+1026,Maize grain yellow sold loose,Aug-23,August,2023,583.72,8.63,90.16,Abia ,720.77,Niger ,455.57
+1027,Mudfish (aro) fresh,Aug-23,August,2023,1667.35,3.44,24.04,Edo ,2566.18,Benue ,945
+1028,Mudfish : dried,Aug-23,August,2023,2535.05,3.98,19.96,Abia ,4750,Kebbi ,1600
+1029,Onion bulb,Aug-23,August,2023,513.29,2.1,30.54,Lagos ,847.83,Kano ,300.46
+1030,"Palm oil: 1 bottle,specify bottle",Aug-23,August,2023,1238.56,2.48,38.13,Ogun ,1525.49,Kwara ,920
+1031,Plantain(ripe),Aug-23,August,2023,593.24,1.27,77.13,Imo ,902.22,Kwara ,356.79
+1032,Plantain(unripe),Aug-23,August,2023,556.94,1.27,78.61,Anambra ,713.34,Kwara ,345
+1033,Rice agric sold loose,Aug-23,August,2023,774.42,9.6,44.66,Rivers ,1036.36,Benue ,569.26
+1034,Rice local sold loose,Aug-23,August,2023,738.74,13.04,62.68,Ondo ,903.26,Benue ,529.72
+1035,Rice Medium Grained,Aug-23,August,2023,788.24,12.76,51.53,Rivers ,1058.44,Plateau ,592.22
+1036,"Rice,imported high quality sold loose",Aug-23,August,2023,957.47,10.08,46.34,Imo ,1331.03,Plateau ,753.21
+1037,Sweet potato,Aug-23,August,2023,360.53,6.15,45.05,Edo ,641.09,Benue ,223.05
+1038,Tilapia fish (epiya) fresh,Aug-23,August,2023,1479.3,2.88,24.05,Edo ,3277.78,Kogi ,620.33
+1039,Titus:frozen,Aug-23,August,2023,1997.63,1.95,21.16,Abia ,2922.64,Kwara ,1250
+1040,Tomato,Aug-23,August,2023,554.37,-0.64,25.11,Ondo ,956.96,Kogi ,255.44
+1041,"Vegetable oil:1 bottle,specify bottle",Aug-23,August,2023,1389.14,1.76,32.36,Abia ,1816.67,Kwara ,946
+1042,Wheat flour: prepacked (golden penny 2kg),Aug-23,August,2023,1487.88,4.84,34.44,Abia ,1800,Kogi ,1230
+1043,Yam tuber,Aug-23,August,2023,576.39,6.86,42.8,Akwa Ibom ,1030.71,Gombe ,328.71
+1001,Agric eggs medium size,Sep-23,September,2023,1047.47,1.54,39.22,Enugu ,1330.95,Benue ,810.46
+1002,Agric eggs(medium size price of one),Sep-23,September,2023,96,0.95,27.88,Imo ,115.3,Plateau ,83.08
+1003,"Beans brown,sold loose",Sep-23,September,2023,716.97,3.47,28.76,Imo ,1090.23,Kogi ,485.64
+1004,Beans:white black eye. sold loose,Sep-23,September,2023,691.46,3.48,27.3,Imo ,1299.61,Benue ,442.94
+1005,Beef Bone in,Sep-23,September,2023,2174.24,0.75,31.68,Edo ,2644.9,Kogi ,1592.5
+1006,"Beef,boneless",Sep-23,September,2023,2816.91,0.62,28.08,Anambra ,3800.42,Kogi ,1845.29
+1007,Bread sliced 500g,Sep-23,September,2023,708.36,3.43,38.42,Delta ,1038.89,Yobe ,485
+1008,Bread unsliced 500g,Sep-23,September,2023,661.75,3.1,38.56,Delta ,962.22,Yobe ,487.78
+1009,Broken Rice (Ofada),Sep-23,September,2023,752.97,4.61,39.7,Ogun ,1213.78,Benue ,510.89
+1010,Catfish (obokun) fresh,Sep-23,September,2023,1823.06,1.25,24.99,Enugu ,3345,Kogi ,946
+1011,Catfish :dried,Sep-23,September,2023,2684.94,1.32,22.57,Enugu ,5263.88,Jigawa ,1600
+1012,Catfish Smoked,Sep-23,September,2023,2196.1,1.55,20.24,Cross River ,3273.81,Kaduna ,1598
+1013,Chicken Feet,Sep-23,September,2023,1308.82,2.13,28.31,Enugu ,2264,Kogi ,510
+1014,Chicken Wings,Sep-23,September,2023,1630.58,1.98,21.79,Edo ,2650,Taraba ,695.87
+1015,Dried Fish Sardine,Sep-23,September,2023,2248.21,0.96,21.29,Anambra ,3900,Akwa Ibom ,1290
+1016,Evaporated tinned milk carnation 170g,Sep-23,September,2023,444.18,2.99,76.51,Ebonyi ,521,Kogi ,362
+1017,"Evaporated tinned milk(peak), 170g",Sep-23,September,2023,508.39,1.76,72.17,Abia ,600.12,Kogi ,408.33
+1018,Frozen chicken,Sep-23,September,2023,3176.69,1.04,23.62,Enugu ,5620,Kwara ,2130.33
+1019,"Gari white,sold loose",Sep-23,September,2023,467.89,2.54,51.09,Ogun ,589.38,Kwara ,342.2
+1020,"Gari yellow,sold loose",Sep-23,September,2023,496.17,2.47,43.75,Ogun ,676.73,Kwara ,343.38
+1021,"Groundnut oil: 1 bottle, specify bottle",Sep-23,September,2023,1496.17,1.74,34.39,Ebonyi ,2400,Benue ,880.67
+1022,Iced Sardine,Sep-23,September,2023,1870.34,2.16,26.06,Imo ,3209.24,Benue ,1300.03
+1023,Irish potato,Sep-23,September,2023,687.87,2.06,42.02,Lagos ,1358.57,Yobe ,334.71
+1024,Mackerel : frozen,Sep-23,September,2023,1876.82,1.54,22.02,Ebonyi ,3149.12,Benue ,1310
+1025,Maize grain white sold loose,Sep-23,September,2023,566.93,-2.27,87.73,Enugu ,702.97,Kwara ,362.62
+1026,Maize grain yellow sold loose,Sep-23,September,2023,563.87,-3.4,84.74,Enugu ,707.22,Niger ,418.96
+1027,Mudfish (aro) fresh,Sep-23,September,2023,1680.93,0.81,23.33,Edo ,2750,Niger ,900.67
+1028,Mudfish : dried,Sep-23,September,2023,2566.09,1.22,18.9,Abia ,4838.46,Jigawa ,1625
+1029,Onion bulb,Sep-23,September,2023,515.59,0.45,29.81,Abia ,862.35,Nasarawa ,295.73
+1030,"Palm oil: 1 bottle,specify bottle",Sep-23,September,2023,1262.67,1.95,36.16,Ogun ,1554.39,Kwara ,930.78
+1031,Plantain(ripe),Sep-23,September,2023,586.43,-1.15,69.54,Imo ,981.97,Kwara ,346.29
+1032,Plantain(unripe),Sep-23,September,2023,543.97,-2.33,68.21,Imo ,727.87,Kwara ,342.33
+1033,Rice agric sold loose,Sep-23,September,2023,797.98,3.04,44.44,Rivers ,1136.36,Benue ,576.91
+1034,Rice local sold loose,Sep-23,September,2023,757.06,2.48,60.59,Rivers ,931.82,Benue ,539.35
+1035,Rice Medium Grained,Sep-23,September,2023,806.91,2.37,51.56,Rivers ,1096.59,Plateau ,602.67
+1036,"Rice,imported high quality sold loose",Sep-23,September,2023,982.07,2.57,46.9,Imo ,1346.98,Benue ,780
+1037,Sweet potato,Sep-23,September,2023,359.7,-0.23,40.93,Edo ,657.14,Benue ,235.81
+1038,Tilapia fish (epiya) fresh,Sep-23,September,2023,1501.36,1.49,23.39,Edo ,3333.33,Kogi ,630
+1039,Titus:frozen,Sep-23,September,2023,2045.95,2.42,22.41,Abia ,2999.58,Kwara ,1260
+1040,Tomato,Sep-23,September,2023,565.69,2.04,27.09,Ondo ,970.68,Kogi ,261.91
+1041,"Vegetable oil:1 bottle,specify bottle",Sep-23,September,2023,1414.01,1.79,31.43,Rivers ,1873.33,Kwara ,950.11
+1042,Wheat flour: prepacked (golden penny 2kg),Sep-23,September,2023,1515.88,1.88,35.19,Abia ,1814.29,Kogi ,1240.71
+1043,Yam tuber,Sep-23,September,2023,593.83,3.03,45.11,Akwa Ibom ,1088.57,Plateau ,320.34
+1001,Agric eggs medium size,Oct-23,October,2023,1112.22,6.18,43.49,Enugu ,1335.24,Taraba ,812.47
+1002,Agric eggs(medium size price of one),Oct-23,October,2023,103.93,8.27,33.86,Edo ,158.33,Plateau ,91.76
+1003,"Beans brown,sold loose",Oct-23,October,2023,790.01,10.19,39.9,Imo ,1095.84,Taraba ,550.59
+1004,Beans:white black eye. sold loose,Oct-23,October,2023,770.13,11.38,40.69,Imo ,1300.44,Sokoto ,549.15
+1005,Beef Bone in,Oct-23,October,2023,2557.8,17.64,50.76,Edo ,3390.67,Katsina ,2068.33
+1006,"Beef,boneless",Oct-23,October,2023,2948.03,4.65,30.08,Anambra ,3831.48,Kogi ,2362.5
+1007,Bread sliced 500g,Oct-23,October,2023,760.82,7.41,45.43,Delta ,1075,Yobe ,505.8
+1008,Bread unsliced 500g,Oct-23,October,2023,736.68,11.32,52.69,Delta ,1075,Yobe ,500.25
+1009,Broken Rice (Ofada),Oct-23,October,2023,811.83,7.82,50.84,Ogun ,1288.37,Nassarawa ,600
+1010,Catfish (obokun) fresh,Oct-23,October,2023,2013.31,10.44,36,Imo ,3411.82,Taraba ,1112.4
+1011,Catfish :dried,Oct-23,October,2023,3045.57,13.43,38.84,Enugu ,5417.22,Jigawa ,1750.26
+1012,Catfish Smoked,Oct-23,October,2023,2420,10.2,32.91,Imo ,3456.31,Kaduna ,1678.12
+1013,Chicken Feet,Oct-23,October,2023,1470.99,12.39,42.82,Delta ,2675,Plateau ,630
+1014,Chicken Wings,Oct-23,October,2023,1772.63,8.71,31.49,Delta ,2815.91,Taraba ,699.26
+1015,Dried Fish Sardine,Oct-23,October,2023,3280.54,45.92,78.65,Niger ,33344.44,Ondo ,1498.99
+1016,Evaporated tinned milk carnation 170g,Oct-23,October,2023,457.26,2.94,71.98,Rivers ,579.17,Kogi ,370
+1017,"Evaporated tinned milk(peak), 170g",Oct-23,October,2023,511.77,0.66,62.84,Abia ,602.57,Nassarawa ,378.57
+1018,Frozen chicken,Oct-23,October,2023,3394.09,6.84,30.49,Enugu ,5675.21,Taraba ,2264.95
+1019,"Gari white,sold loose",Oct-23,October,2023,520.35,11.21,63.68,Delta ,759.29,Kogi ,390.81
+1020,"Gari yellow,sold loose",Oct-23,October,2023,540.87,9.01,52.03,Delta ,709.3,Kogi ,373.91
+1021,"Groundnut oil: 1 bottle, specify bottle",Oct-23,October,2023,1604.23,7.22,38.37,Ebonyi ,2499.82,Plateau ,1060
+1022,Iced Sardine,Oct-23,October,2023,1998.2,6.84,33.63,Imo ,3284.62,Oyo ,1330.79
+1023,Irish potato,Oct-23,October,2023,829.14,20.54,63.18,Rivers ,2075,Jigawa ,376.79
+1024,Mackerel : frozen,Oct-23,October,2023,2034.95,8.43,32.39,Abia ,3248.68,Ekiti ,1500
+1025,Maize grain white sold loose,Oct-23,October,2023,548.96,-3.17,80.25,Rivers ,731.23,Nassarawa ,347.36
+1026,Maize grain yellow sold loose,Oct-23,October,2023,538.85,-4.44,75.17,Ebonyi ,733.33,Niger ,350.34
+1027,Mudfish (aro) fresh,Oct-23,October,2023,1860.8,10.7,36.98,Cross_River ,2789.96,Kogi ,1072.73
+1028,Mudfish : dried,Oct-23,October,2023,2763.21,7.68,27.86,Abia ,5007.97,Jigawa ,1657.13
+1029,Onion bulb,Oct-23,October,2023,592.8,14.98,46.11,Bayelsa ,999.6,Kano ,303.46
+1030,"Palm oil: 1 bottle,specify bottle",Oct-23,October,2023,1322.55,4.74,36.52,Ogun ,1599.52,Benue ,1033.33
+1031,Plantain(ripe),Oct-23,October,2023,627.5,7,75.67,Imo ,1079.64,Kogi ,406.55
+1032,Plantain(unripe),Oct-23,October,2023,610.34,12.2,82.85,Akwa_Ibom ,977.84,Niger ,408.57
+1033,Rice agric sold loose,Oct-23,October,2023,847.08,6.15,50.85,Abuja ,1117.34,Nassarawa ,675
+1034,Rice local sold loose,Oct-23,October,2023,819.42,8.24,68.1,Edo ,1044.17,Zamfara ,660.79
+1035,Rice Medium Grained,Oct-23,October,2023,897.49,11.23,64.04,Abuja ,1167.07,Gombe ,641.16
+1036,"Rice,imported high quality sold loose",Oct-23,October,2023,1016.12,3.47,47.41,Delta ,1394,Niger ,742.86
+1037,Sweet potato,Oct-23,October,2023,403.02,12.04,52.58,Akwa_Ibom ,910.66,Taraba ,200.14
+1038,Tilapia fish (epiya) fresh,Oct-23,October,2023,1701.3,13.32,38.91,Edo ,3256.41,Bauchi ,692.86
+1039,Titus:frozen,Oct-23,October,2023,2172.99,6.21,30.96,Abia ,3205.3,Jigawa ,1381.07
+1040,Tomato,Oct-23,October,2023,675.91,19.48,48.73,Bayelsa ,1344.13,Kwara ,341.95
+1041,"Vegetable oil:1 bottle,specify bottle",Oct-23,October,2023,1489.74,5.36,34.69,Abia ,1876.11,Kogi ,1170.37
+1042,Wheat flour: prepacked (golden penny 2kg),Oct-23,October,2023,1727.28,13.95,50.92,Katsina ,2195,Kwara ,1400
+1043,Yam tuber,Oct-23,October,2023,687.68,15.8,67.79,Akwa_Ibom ,1145.56,Bauchi ,389.94
+1001,Agric eggs medium size,Nov-23,November,2023,1202.18,8.09,50.01,Enugu ,1358.5,Taraba ,942.36
+1002,Agric eggs(medium size price of one),Nov-23,November,2023,110.1,5.93,36,Bayelsa ,144,Bauchi ,91.43
+1003,"Beans brown,sold loose",Nov-23,November,2023,838.85,6.18,44.99,Imo ,1109.75,Jigawa ,575
+1004,Beans:white black eye. sold loose,Nov-23,November,2023,800.49,3.94,43.54,Imo ,1309.78,Borno ,536.34
+1005,Beef Bone in,Nov-23,November,2023,2630.02,2.82,49.65,Bayelsa ,3431.67,Adamawa ,1987.99
+1006,"Beef,boneless",Nov-23,November,2023,3029.5,2.76,29.61,Anambra ,3850.47,Yobe ,2533.33
+1007,Bread sliced 500g,Nov-23,November,2023,814.53,7.06,53.96,Rivers ,1187.86,Borno ,510.7
+1008,Bread unsliced 500g,Nov-23,November,2023,795.83,8.03,61.75,Rivers ,1130.71,Borno ,504.23
+1009,Broken Rice (Ofada),Nov-23,November,2023,940.16,15.81,71.04,Ogun ,1668.83,Zamfara ,686.67
+1010,Catfish (obokun) fresh,Nov-23,November,2023,2231.23,10.82,47.35,Imo ,3583.96,Taraba ,1289.45
+1011,Catfish :dried,Nov-23,November,2023,3276.63,7.59,43.65,Enugu ,5553.61,Jigawa ,1810.5
+1012,Catfish Smoked,Nov-23,November,2023,2816.48,16.38,50.5,Gombe ,3850,Kaduna ,1810
+1013,Chicken Feet,Nov-23,November,2023,1791.1,21.76,70.46,Delta ,2725,Abuja ,725
+1014,Chicken Wings,Nov-23,November,2023,2046.5,15.45,49.75,Ekiti ,3245,Taraba ,1007.31
+1015,Dried Fish Sardine,Nov-23,November,2023,2750.91,11.39,45.97,Nassarawa ,4507.71,Oyo ,1656.67
+1016,Evaporated tinned milk carnation 170g,Nov-23,November,2023,469.73,2.73,71.57,Ebonyi ,530.9,Kogi ,390
+1017,"Evaporated tinned milk(peak), 170g",Nov-23,November,2023,526.83,2.94,60.98,Abia ,617.89,Niger ,386.9
+1018,Frozen chicken,Nov-23,November,2023,3645.89,7.42,37.48,Enugu ,5803.81,Borno ,2900.14
+1019,"Gari white,sold loose",Nov-23,November,2023,548.95,5.5,68.48,Cross_River ,762.46,Benue ,390.39
+1020,"Gari yellow,sold loose",Nov-23,November,2023,581.09,7.44,61.37,Edo ,726.49,Nassarawa ,391.58
+1021,"Groundnut oil: 1 bottle, specify bottle",Nov-23,November,2023,1738.96,8.4,44.99,Ebonyi ,2523.35,Benue ,1211.11
+1022,Iced Sardine,Nov-23,November,2023,2222.99,11.25,40.57,Imo ,3298.47,Zamfara ,1425
+1023,Irish potato,Nov-23,November,2023,872.63,5.25,64.26,Cross_River ,1893.33,Yobe ,409.17
+1024,Mackerel : frozen,Nov-23,November,2023,2205.04,8.36,40.39,Abia ,3385.11,Rivers ,1664.29
+1025,Maize grain white sold loose,Nov-23,November,2023,557.33,1.52,75.34,Rivers ,799.37,Bauchi ,365.37
+1026,Maize grain yellow sold loose,Nov-23,November,2023,559.18,3.77,76.01,Enugu ,783.74,Niger ,352.9
+1027,Mudfish (aro) fresh,Nov-23,November,2023,2131.01,14.52,54.71,Rivers ,3230,Yobe ,1000.6
+1028,Mudfish : dried,Nov-23,November,2023,2982.69,7.94,35.27,Abia ,5377.61,Bauchi ,1357.14
+1029,Onion bulb,Nov-23,November,2023,683.78,15.35,60.62,Anambra ,872.23,Gombe ,506.41
+1030,"Palm oil: 1 bottle,specify bottle",Nov-23,November,2023,1370.16,3.6,36.11,Ondo ,1655.95,Akwa_Ibom ,1133.33
+1031,Plantain(ripe),Nov-23,November,2023,693.65,10.54,88.04,Delta ,1219.86,Borno ,350
+1032,Plantain(unripe),Nov-23,November,2023,694.69,13.82,103.85,Delta ,1152.75,Adamawa ,362.5
+1033,Rice agric sold loose,Nov-23,November,2023,916.69,8.22,59.22,Bayelsa ,1215.53,Adamawa ,690.91
+1034,Rice local sold loose,Nov-23,November,2023,867.18,5.83,73.16,Lagos ,1122.42,Kebbi ,688
+1035,Rice Medium Grained,Nov-23,November,2023,936.25,4.32,66.85,Oyo ,1182.94,Bauchi ,733.33
+1036,"Rice,imported high quality sold loose",Nov-23,November,2023,1137.4,11.94,61.53,Imo ,1405.34,Gombe ,916.76
+1037,Sweet potato,Nov-23,November,2023,490.8,21.78,85.28,Akwa_Ibom ,1016.61,Kaduna ,246.38
+1038,Tilapia fish (epiya) fresh,Nov-23,November,2023,1979.77,16.37,59.8,Edo ,3313.89,Gombe ,675
+1039,Titus:frozen,Nov-23,November,2023,2418.17,11.28,42.73,Abia ,3350,Osun ,1600
+1040,Tomato,Nov-23,November,2023,758.65,12.24,66.69,Delta ,1505.16,Kano ,396.04
+1041,"Vegetable oil:1 bottle,specify bottle",Nov-23,November,2023,1610.18,8.08,40.87,Osun ,2075,Benue ,1244.44
+1042,Wheat flour: prepacked (golden penny 2kg),Nov-23,November,2023,1884.62,9.11,58.41,Zamfara ,2340,Ekiti ,1500
+1043,Yam tuber,Nov-23,November,2023,772.72,12.37,83.51,Oyo ,1301.44,Yobe ,365.38
+1001,Agric eggs medium size,Dec-23,December,2023,1254.9,4.39,52.09,Lagos ,1433.06,Kogi ,1069.17
+1002,Agric eggs(medium size price of one),Dec-23,December,2023,110.04,-0.05,31.78,Abuja ,135.67,Borno ,92.12
+1003,"Beans brown,sold loose",Dec-23,December,2023,870.67,3.79,48.54,Akwa_Ibom ,1120.92,Jigawa ,586.04
+1004,Beans:white black eye. sold loose,Dec-23,December,2023,829.86,3.67,46.02,Imo ,1320.25,Jigawa ,576.51
+1005,Beef Bone in,Dec-23,December,2023,2696.88,2.54,50.24,Cross_River ,3404.89,Adamawa ,2057.8
+1006,"Beef,boneless",Dec-23,December,2023,3146.94,3.88,32.38,Osun ,3981.04,Gombe ,2600
+1007,Bread sliced 500g,Dec-23,December,2023,855.05,4.97,58.96,Rivers ,1188.33,Borno ,533.7
+1008,Bread unsliced 500g,Dec-23,December,2023,815.11,2.42,64.22,Rivers ,1146.55,Borno ,511.6
+1009,Broken Rice (Ofada),Dec-23,December,2023,1002.1,6.59,78.72,Lagos ,1710.02,Adamawa ,737.59
+1010,Catfish (obokun) fresh,Dec-23,December,2023,2347.41,5.21,52.98,Imo ,3601.87,Taraba ,1332.68
+1011,Catfish :dried,Dec-23,December,2023,3357.51,2.47,45.25,Enugu ,5609.15,Jigawa ,1821.45
+1012,Catfish Smoked,Dec-23,December,2023,2869.4,1.88,51.19,Gombe ,3950,Jigawa ,1876.31
+1013,Chicken Feet,Dec-23,December,2023,1950.54,8.9,81.71,Abuja ,2996,Taraba ,732.37
+1014,Chicken Wings,Dec-23,December,2023,2264.87,10.67,63.85,Ondo ,3350,Plateau ,1100
+1015,Dried Fish Sardine,Dec-23,December,2023,2863.97,4.11,49.93,Nassarawa ,4638.1,Oyo ,1769.87
+1016,Evaporated tinned milk carnation 170g,Dec-23,December,2023,487.94,3.88,73.43,Ekiti ,650,Kogi ,400
+1017,"Evaporated tinned milk(peak), 170g",Dec-23,December,2023,542,2.88,59.41,Abia ,628.86,Kwara ,462.5
+1018,Frozen chicken,Dec-23,December,2023,3771.41,3.44,39.96,Enugu ,5838.63,Borno ,2956.03
+1019,"Gari white,sold loose",Dec-23,December,2023,568.72,3.6,70.81,Bayelsa ,750.29,Benue ,396.13
+1020,"Gari yellow,sold loose",Dec-23,December,2023,598.75,3.04,62.6,Delta ,729.72,Nassarawa ,396.41
+1021,"Groundnut oil: 1 bottle, specify bottle",Dec-23,December,2023,1806.95,3.91,47.45,Ebonyi ,2536,Kogi ,1211.11
+1022,Iced Sardine,Dec-23,December,2023,2303.96,3.64,44.87,Imo ,3463.39,Zamfara ,1499
+1023,Irish potato,Dec-23,December,2023,1006.36,15.32,85.82,Cross_River ,1845,Yobe ,433.69
+1024,Mackerel : frozen,Dec-23,December,2023,2266.19,2.77,41.84,Ebonyi ,3492.56,Rivers ,1703.33
+1025,Maize grain white sold loose,Dec-23,December,2023,577.77,3.67,78.52,Rivers ,812.97,Osun ,438.2
+1026,Maize grain yellow sold loose,Dec-23,December,2023,589.75,5.47,79.23,Enugu ,769.68,Bauchi ,450.32
+1027,Mudfish (aro) fresh,Dec-23,December,2023,2214.58,3.92,58.1,Rivers ,3250,Yobe ,1054.07
+1028,Mudfish : dried,Dec-23,December,2023,3137.5,5.19,40.12,Abia ,5380.63,Plateau ,1700
+1029,Onion bulb,Dec-23,December,2023,971.86,42.13,122.94,Rivers ,1433.13,Adamawa ,465.41
+1030,"Palm oil: 1 bottle,specify bottle",Dec-23,December,2023,1425.32,4.03,39.17,Ekiti ,1839.35,Akwa_Ibom ,1133.33
+1031,Plantain(ripe),Dec-23,December,2023,757.99,9.28,101.47,Delta ,1156.91,Borno ,341.94
+1032,Plantain(unripe),Dec-23,December,2023,746.04,7.39,114.58,Oyo ,1214.21,Borno ,388.35
+1033,Rice agric sold loose,Dec-23,December,2023,972.46,6.08,65.75,Abuja ,1500,Adamawa ,701.38
+1034,Rice local sold loose,Dec-23,December,2023,917.93,5.85,81.35,Abuja ,1250,Zamfara ,696.55
+1035,Rice Medium Grained,Dec-23,December,2023,991.08,5.86,74.04,Oyo ,1282.63,Borno ,766.67
+1036,"Rice,imported high quality sold loose",Dec-23,December,2023,1226.29,7.82,69.28,Niger ,1650,Yobe ,936.86
+1037,Sweet potato,Dec-23,December,2023,551.92,12.45,105,Akwa_Ibom ,1057.14,Kaduna ,258.56
+1038,Tilapia fish (epiya) fresh,Dec-23,December,2023,2059.53,4.03,63.99,Lagos ,3495.83,Gombe ,776.19
+1039,Titus:frozen,Dec-23,December,2023,2512.16,3.89,45.63,Abia ,3355.9,Nassarawa ,2045
+1040,Tomato,Dec-23,December,2023,814.16,7.32,77.6,Delta ,1461.87,Borno ,390.5
+1041,"Vegetable oil:1 bottle,specify bottle",Dec-23,December,2023,1709.55,6.17,47.15,Abuja ,2532,Benue ,1260.51
+1042,Wheat flour: prepacked (golden penny 2kg),Dec-23,December,2023,1976.59,4.88,64.19,Zamfara ,2375,Kwara ,1550
+1043,Yam tuber,Dec-23,December,2023,818.92,5.98,92.47,Oyo ,1463.34,Taraba ,374.54
