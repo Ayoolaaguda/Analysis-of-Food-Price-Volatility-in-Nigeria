@@ -8,9 +8,9 @@ Objectives:
 3. Provide Actionable Insights: Offer Practical recommendations for stakeholders to manage risk and capitalize on opportunities arising from price flunctuations.
 
 Methodology:
-Data Source: National Bureau of Statistics (Nigeria)
-Analytical Tools: MySql, Microsoft Excel
-Visulaization Tools: Microsoft Excel, Tableau
+Data Source: National Bureau of Statistics (Nigeria). 
+Analytical Tools: MySql, Microsoft Excel. 
+Visulaization Tools: Microsoft Excel, Tableau. 
 
-THrough comprehensive data analysis and visualization, this project provides valuable insights into the food price landscape in Nigeria, 
+Through comprehensive data analysis and visualization, this project provides valuable insights into the food price landscape in Nigeria, 
 helping stakeholders navigate the complexities of a volatile market.
